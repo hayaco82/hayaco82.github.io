@@ -1,4 +1,5 @@
 # HCM-STT 설치
+[test](https://naver.com)
 1. [Extension Link](chrome://extensions)를 클릭하여 확장 프로그램에 들어간다.
 <image src="https://user-images.githubusercontent.com/57250163/68010188-48b4a300-fcc7-11e9-8e3f-b2d5280b40af.PNG" style="border: 1px solid gray;"></image>
 <br>
