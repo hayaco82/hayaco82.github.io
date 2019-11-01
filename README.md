@@ -1,12 +1,7 @@
 # HCM-STT 설치
 1. [Extension Link](chrome://extensions)를 클릭하여 확장 프로그램에 들어간다.
 <image src="https://user-images.githubusercontent.com/57250163/68010188-48b4a300-fcc7-11e9-8e3f-b2d5280b40af.PNG" style="border:1px solid gray; margin-top: 4px;"></image>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<div style="background:red;">hihi</div>
 1. dist.crx 파일을 끌어다 놓으면, 다음과 같은 팝업이 뜨고 "앱 추가" 버튼을 누른다.
 <image src="https://user-images.githubusercontent.com/57250163/68011120-c7124480-fcc9-11e9-9a1e-4e4d433ac8e7.PNG" style="border:1px solid gray; margin-top: 4px;"></image>
 
