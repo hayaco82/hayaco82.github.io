@@ -1,13 +1,12 @@
 # HCM-STT 설치
 1. [Extension Link](chrome://extensions)를 클릭하여 확장 프로그램에 들어간다.
-sdfsdfsdfsdf
 <kbd>
 <image src="https://user-images.githubusercontent.com/57250163/68010188-48b4a300-fcc7-11e9-8e3f-b2d5280b40af.PNG"></image>
 </kbd>
 
 1. dist.crx 파일을 끌어다 놓으면, 다음과 같은 팝업이 뜨고 "앱 추가" 버튼을 누른다.
 <kbd>
-<image src="https://user-images.githubusercontent.com/57250163/68011120-c7124480-fcc9-11e9-9a1e-4e4d433ac8e7.PNG"></image>
+<image src="https://user-images.githubusercontent.com/57250163/68012183-b0212180-fccc-11e9-87d2-6e271dbefd9b.png"></image>
 </kbd>
 
 1. "앱 추가" 버튼을 누르면 HMC-STT 프로그램이 실행되고, 브라우저에서는 다음과 같이 설치된 앱 목록이 나온다.
